@@ -1,0 +1,10 @@
+UPDATE public.animals SET name = 'Паук', kind = 'Насекомые' WHERE id = 'cea9b6aa-1c3f-41cd-83d0-5858ed6ed1e0';
+UPDATE public.animals SET name = 'Гусь', kind = 'Птицы' WHERE id = 'cea9b6aa-1c3f-41cd-83d0-5858ed6ed1e1';
+UPDATE public.animals SET name = 'Окунь', kind = 'Рыбы' WHERE id = 'cea9b6aa-1c3f-41cd-83d0-5858ed6ed1e2';
+UPDATE public.animals SET name = 'Кот', kind = 'Млекопитающие' WHERE id = 'cea9b6aa-1c3f-41cd-83d0-5858ed6ed1e3';
+UPDATE public.animals SET name = 'Лягушка', kind = 'Земноводные' WHERE id = 'cea9b6aa-1c3f-41cd-83d0-5858ed6ed1e4';
+UPDATE public.animals SET name = 'Оса', kind = 'Насекомые' WHERE id = 'cea9b6aa-1c3f-41cd-83d0-5858ed6ed1e5';
+UPDATE public.animals SET name = 'Голубь', kind = 'Птицы' WHERE id = 'cea9b6aa-1c3f-41cd-83d0-5858ed6ed1e6';
+UPDATE public.animals SET name = 'Ящерица', kind = 'Земноводные' WHERE id = 'cea9b6aa-1c3f-41cd-83d0-5858ed6ed1e7';
+UPDATE public.animals SET name = 'Лошадь', kind = 'Млекопитающие' WHERE id = 'cea9b6aa-1c3f-41cd-83d0-5858ed6ed1e8';
+UPDATE public.animals SET name = 'Карась', kind = 'Рыбы' WHERE id = 'cea9b6aa-1c3f-41cd-83d0-5858ed6ed1e9';
