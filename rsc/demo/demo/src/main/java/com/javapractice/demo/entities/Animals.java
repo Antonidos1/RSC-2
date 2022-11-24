@@ -10,7 +10,7 @@ import java.util.UUID;
 @Getter
 @Setter
 @Entity
-@Table(name = "Animals")
+@Table(name = "animals")
 public class Animals implements Serializable {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)

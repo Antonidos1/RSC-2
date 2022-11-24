@@ -1,0 +1,9 @@
+com\javapractice\demo\dao\UserRepository.class
+com\javapractice\demo\controller\AnimalsRestController.class
+com\javapractice\demo\DemoApplication.class
+com\javapractice\demo\controller\UserRestController.class
+com\javapractice\demo\dao\RoleRepository.class
+com\javapractice\demo\entities\Role.class
+com\javapractice\demo\dao\AnimalsRepository.class
+com\javapractice\demo\entities\Animals.class
+com\javapractice\demo\entities\User.class

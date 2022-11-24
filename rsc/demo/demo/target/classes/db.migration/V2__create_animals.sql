@@ -8,4 +8,4 @@ create table if not exists animals
     PRIMARY KEY (id)
 );
 
-ALTER TABLE Animals ADD CONSTRAINT fk_animals FOREIGN KEY (id) references Animals(id)
+
